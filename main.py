@@ -7,3 +7,4 @@ fourth line
 ADded by dev branch
 fifth line
 six line
+seven line
